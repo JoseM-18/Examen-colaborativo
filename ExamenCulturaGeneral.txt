@@ -1,0 +1,30 @@
+Pregunta1: Cuantos litros de sangre tiene una persona adulta?
+opciones: Entre_2_y_4_litros. Entre_4_y_6_litros. Tiene_10_litros. Tiene_7_litros.
+respuesta: Entre_4_y_6_litros.
+Pregunta2: Cuanto tiempo tarda la luz del Sol en llegar a la Tierra?
+opciones: 12_minutos. 1_dia. 8_minutos. 12_horas.
+respuesta: 8_minutos.
+Pregunta3: El numero romano MDCLXVI corresponde a:
+opciones: 1991. 1000100. 1551 1666.
+respuesta: 1666.
+Pregunta4: A quien se conoce como "la calculadora humana"?
+opciones: Alan_Turing. James_Maxwell. Malba_Tahan. Katherine_G._Johnson.
+respuesta: Katherine_G._Johnson.
+Pregunta5: Cuantos grados son necesarios para que dos angulos sean complementarios?
+opciones: 45*. 60*. 90*. 80*.
+respuesta: 90*.
+Pregunta6: Cuantos jugadores pueden participar por equipo en el basquetbol?
+opciones: 2. 3. 4. 5. 
+respuesta: 5.
+Pregunta7: Cual de estos paises tiene como idioma oficial el frances?
+opciones: Suecia. Haiti. Libano. Andorra.
+respuesta: Haiti.
+Pregunta8: Cual es el unico numero primo par?
+opciones: 2. 3. 4. 5.
+respuesta: 2.
+Pregunta9: Cuando se inicio la Primera Guerra Mundial?
+opciones: 11_de_noviembre_1918. 1_de_septiembre_de_1939. 28_de_julio_de_1914. 28_de_junio_1919.  
+respuesta: 28_de_julio_de_1914.
+Pregunta10: Como se llaman los lados de un triangulo rectangulo?
+opciones: Tangente_y_coseno. Adyacente_y_opuesto. Hipotenusa_y_catetos. Hipotenusa_y_opuesto.
+respuesta: Hipotenusa_y_catetos.

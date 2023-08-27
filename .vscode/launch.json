@@ -1,0 +1,42 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "PrincipalServidor",
+      "request": "launch",
+      "mainClass": "servidor.PrincipalServidor",
+      "projectName": "Codigo Fuente_980aa59a"
+    },
+    {
+      "type": "java",
+      "name": "GuiCliente$PrincipalCliente",
+      "request": "launch",
+      "mainClass": "Cliente.GuiCliente$PrincipalCliente",
+      "projectName": "Codigo Fuente_980aa59a"
+    },
+    {
+      "type": "java",
+      "name": "Launch GuiCliente$PrincipalCliente",
+      "request": "launch",
+      "mainClass": "Cliente.GuiCliente$PrincipalCliente",
+      "projectName": "ProyectoFinalPI - respaldo 5.1.23_e4813817"
+    },
+    {
+      "type": "java",
+      "name": "Launch PrincipalServidor",
+      "request": "launch",
+      "mainClass": "servidor.PrincipalServidor",
+      "projectName": "ProyectoFinalPI - respaldo 5.1.23_e4813817"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    }
+  ]
+}

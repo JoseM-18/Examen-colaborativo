@@ -1,0 +1,30 @@
+Pregunta1: el periodo en el que aparecieron la agricultura y los asentamientos sedentarios se llama:
+opciones: Neolitico. Edad_Media. Paleolitico. Edad_Antigua.
+respuesta: Neolitico.
+Pregunta2: Cuando se invento la escritura?
+opciones: Hace_20_mil_anios. En_el_IV_milenio_a.C. En_el_anio_0. Hace_10_mil_anios. 
+respuesta: En_el_IV_milenio_a.C.
+Pregunta3: Como se llamaban los gobernantes del antiguo Egipto?
+opciones: Faraones. Basileos. Alcaldes. Egipcios.
+respuesta: Faraones.
+Pregunta4: Segun las leyendas de la antiguedad, quienes fundaron a Roma?
+opciones: Aquiles_y_Odiseo. Alejandro_Magno_y_Ptolomeo. Romulo_y_Remo. Cristopher_Args_y_Romulo.
+respuesta: Romulo_y_Remo.
+Pregunta5: Donde y cuando se invento la polvora?
+opciones: En_Estados_Unidos_en_el_siglo_XIX. En_China_en_el_siglo_IX. En_Francia_en_el_siglo_XVII. En_Inglaterra_en_el_siglo_XIV.
+respuesta: En_China_en_el_siglo_IX.
+Pregunta6: Cuales de estos libros fueron escritos por William Shakespeare?
+opciones: Don_Quijote_y_las_Novelas_ejemplares. Fausto_y_Los_sufrimientos_del_joven_Werther. Romeo_y_Julieta,_y_Hamlet. Caperusita_roja
+respuesta: Romeo_y_Julieta,_y_Hamlet.
+Pregunta7: Cual fue la primera persona en ganar el premio Nobel en dos oportunidades?
+opciones: Guglielmo_Marconi. Max_Planck. Marie_Curie. John_Bardeen.
+respuesta: Marie_Curie.
+Pregunta8: Que fue el Tratado de Versalles?
+opciones: Una_declaracion_de_guerra_entre_Francia_y_Holanda. Un_compromiso_de_paz_firmado_por_varias_naciones_para_poner_fin_a_la_Primera_Guerra_Mundial. Un_tratado_de_amistad_y_de_alianza_militar_entre_Estados_Unidos,_Holanda,_Francia_y_Polonia. Ninguna_de_las_anteriores.
+respuesta: Un_compromiso_de_paz_firmado_por_varias_naciones_para_poner_fin_a la_Primera_Guerra_Mundial.
+Pregunta9: En que anios transcurrio la guerra civil espanola?
+opciones: Entre_1914_y_1918. Entre_1939_y_1945. Entre_1936_y_1939. Entre_1940_y_1947.
+respuesta: Entre_1936_y_1939.
+Pregunta10: Cual evento provoco el inicio de la Segunda Guerra Mundial?
+opciones: El_ataque_a_Fort_Sumter. La_batalla_de_Verdun. La_invasion_alemana_a_Polonia. El_asesinato_del_archiduque_Francisco_Fernando.
+respuesta: La_invasion_alemana_a_Polonia.
